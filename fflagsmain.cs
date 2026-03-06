@@ -1,7 +1,5 @@
 #pragma once
-/* -------------------------------------------------------------
-/*                       OffsetsDumper V3.4.2                        
-/* -------------------------------------------------------------
+
 
 namespace FFlagOffsets {
     public static class Info {
